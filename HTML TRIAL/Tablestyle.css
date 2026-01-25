@@ -1,0 +1,6 @@
+input, select, textarea {
+    border: 2px solid black;
+}
+body {
+    background-color: rgb(114, 114, 122);
+}
