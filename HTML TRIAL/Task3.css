@@ -1,0 +1,40 @@
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: #8007f1;
+}
+
+
+p {
+    color: #d40808;
+}
+
+
+img {
+    display: block;
+    margin: 10px 0;
+}
+
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: darkblue;
+}
+
+
+ul, ol {
+    margin-left: 20px;
+    color: orange;
+}
